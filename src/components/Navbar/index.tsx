@@ -16,8 +16,8 @@ const Navbar = ()=>{
                 <NavItem link="" text="FAQ" />
             </div>
             <div >
-                <SmallBtn text="Login" color="blue" clicked={()=>{}} />
-                <SmallBtn text="Enroll" color="red" clicked={()=>{}} />
+                <SmallBtn text="Login" color="blue" />
+                <SmallBtn text="Enroll" color="red" />
             </div>
         </nav>
     )
